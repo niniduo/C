@@ -2,8 +2,8 @@
 #include <math.h> //引入math库? 
 int main()
 {
-	int a = 1;
-	int b = 2;
+	int a = 2;
+	int b = 10;
 	int c = 3;
 	double delta;//可以：double delta,x1,x2; 
 	double x1;
